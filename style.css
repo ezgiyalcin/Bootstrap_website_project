@@ -1,0 +1,16 @@
+.carousel-item img {
+  margin-bottom: 60px !important;
+}
+.carousel-caption {
+  font-size: x-small !important;
+}
+
+.card {
+  transition: 0.2s;
+  cursor: pointer;
+}
+.card:hover {
+  transform: scale(1.03);
+  transition: all 0.2s;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}/*# sourceMappingURL=style.css.map */
